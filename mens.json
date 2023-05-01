@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Giovanni Abagnale",
+    "ranking": 1,
+    "country": "Italy",
+    "dob": "21 March 1996",
+    "score": "111"
+  },
+  {
+    "name": "Patimat Abakarova",
+    "ranking": 2,
+    "country": "Azerbaijan",
+    "dob": "01 June 1998",
+    "score": "222"
+  },
+  {
+    "name": "Luc Abalo",
+    "ranking": 3,
+    "country": "France",
+    "dob": "2 October 1993",
+    "score": "333"
+  },
+  {
+    "name": "Saeid Morad Abdevali",
+    "ranking": 4,
+    "country": "Iran",
+    "dob": "02 January 1990",
+    "score": "444"
+  },
+  {
+    "name": "Denis Mikhaylovich Ablyazin",
+    "ranking": 5,
+    "country": "Russia",
+    "dob": "27 August 1993",
+    "score": "555"
+  }
+]
